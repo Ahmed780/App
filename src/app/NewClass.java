@@ -21,5 +21,11 @@ package app;
  * @author cstuser
  */
 public class NewClass {
+     
+      int a = 0;
+      int b = 2;
+      boolean result = ((a==b));
+      
+        System.out.println("yes");
     
 }
